@@ -34,7 +34,23 @@
     }
 
     .banner__content h1 {
-        font-size: 40px;
+        font-size: 34px;
+    }
+
+    .banner__content h6 {
+        font-size: 20px;
+    }
+
+    .testimonial__content p {
+        text-align: justify;
+    }
+
+    .copycontent {
+        text-align: center;
+    }
+
+    .develop {
+        text-align: center;
     }
 
     .dream__content {
@@ -144,6 +160,34 @@
     .scrap_list {
         font-size: 30px;
     }
+
+    .footer__form form {
+        margin-bottom: 20px;
+    }
+
+    .footer__form h5 {
+        margin-bottom: 10px;
+    }
+
+    .footer__menu h5 {
+        margin-bottom: 5px;
+    }
+
+    .footer__menu {
+        margin-bottom: 20px;
+    }
+
+    .footer__number a {
+        font-size: 35px;
+    }
+
+    .about___content {
+        padding-top: 30px;
+    }
+
+    .about_story {
+        font-size: 30px;
+    }
 }
 
 /* Large Mobile :480px. */
@@ -158,6 +202,11 @@
 
     .details__content {
         padding: 50px;
+    }
+
+    .footer__form.mobile_center {
+        width: 80%;
+        margin: auto;
     }
 
 }

@@ -58,3 +58,18 @@ $(function (e) {
     ]
   });
 });
+
+//testimonial
+$(function (e) {
+  "use strict";
+  e(".testimonial__active").slick({
+    dots: true,
+    infinite: true,
+    speed: 300,
+    arrows: false,
+    autoplay: true,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+
+  });
+});
