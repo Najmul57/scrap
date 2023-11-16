@@ -135,6 +135,15 @@
     .details__form form {
         padding: 10px;
     }
+
+    .footer__social {
+        text-align: center;
+        margin-top: 0;
+    }
+
+    .scrap_list {
+        font-size: 30px;
+    }
 }
 
 /* Large Mobile :480px. */
